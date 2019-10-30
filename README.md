@@ -1,6 +1,9 @@
 # test
-##Sikander Ali
-
+## Sikander Ali
 #### Sikander 4th
 ##### SIkander 5th
 ###### SIkander 6th
+* khan *
+** Bold **
+~~ strike ~~
+
